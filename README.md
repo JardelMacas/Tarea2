@@ -26,10 +26,30 @@ Objetivos Especificos
 
 **3.EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS**
 
-![]()
-![]()
-![]()
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap3-01.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap3-02.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap3-03.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap3-04.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap3-05.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap3-06.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap3-07.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap3-08.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap3-09.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap3-10.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap3-11.png)
 
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap4-01.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap4-02.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap4-03.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap4-04.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap4-05.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap4-06.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap4-07.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap4-08.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap4-09.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap4-10.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap4-11.png)
+![](https://github.com/JardelMacas/Tarea2/blob/main/Ejercicios/EjCap4-12.png)
 
 **4.VIDEO**
 
