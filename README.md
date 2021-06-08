@@ -19,7 +19,7 @@ Objetivos Especificos
 
 **2.MARCO TEORICO**
 
-![](https://github.com/JardelMacas/Tarea2/blob/main/Resumenes/ResCap3.jpeg )
+![](https://github.com/JardelMacas/Tarea2/blob/main/Resumenes/ResCap3.png )
 ![](https://github.com/JardelMacas/Tarea2/blob/main/Resumenes/ResCap4.jpeg)
 
 
