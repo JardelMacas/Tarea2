@@ -33,9 +33,9 @@ Objetivos Especificos
 
 **4.VIDEO**
 
-Link del Video: https://www.youtube.com/watch?v=S7ljptPuCCI
+Link del Video: https://youtu.be/BPMRHwRNMRI
 
-[![Circuitos Eléctricos || Ejercicios Resueltos || Libro de Allan Robbins || Capítulos 1 y 2](https://img.youtube.com/vi/S7ljptPuCCI/0.jpg)](https://www.youtube.com/watch?v=S7ljptPuCCI)
+[![Circuitos Eléctricos || Ejercicios Resueltos || Libro de Allan Robbins || Capítulos 1 y 2](https://img.youtube.com/vi/BPMRHwRNMRI/0.jpg)](https://www.youtube.com/watch?v=BPMRHwRNMRI)
 
 **5. CONCLUSIONES**
 
